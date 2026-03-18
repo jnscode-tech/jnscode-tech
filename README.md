@@ -1,21 +1,51 @@
-#  🙍🏾‍♀️ Juliana Nascimento dos Santos
+# 👋 Olá, eu sou a Juliana Santos
 
 🎓 Estudante de Desenvolvimento Front-end e Back-end  
-💡 Apaixonada por tecnologia  
+💡 Apaixonada por tecnologia e aprendizado constante  
 
-## 🚀 Tecnologias
-- HTML, CSS, JavaScript
-- PHP
-- MySQL
-- React
+---
+
+## 🚀 Tecnologias que estou aprendendo
+
+💻 Front-end  
+- HTML  
+- CSS  
+- JavaScript  
+
+⚙️ Back-end  
+- PHP  
+
+🗄️ Banco de Dados  
+- MySQL  
+
+---
 
 ## 📂 Projetos em destaque
-- Sistema de alunos em PHP
-- Modelagem de banco de dados
-- Exercícios de lógica com Arrays
-- Data Manipulation Language (DML)
+
+🔹 Sistema de cadastro de alunos em PHP  
+🔹 Exercícios com arrays  
+🔹 Modelagem de banco de dados  
+🔹 Consultas SQL (INNER JOIN, etc)
+
+---
+
+## 🌱 Atualmente estudando
+- Lógica de programação  
+- Estruturas de dados  
+- Desenvolvimento web completo  
+
+---
 
 ## 📫 Contato
+
+📍 Santos - SP  
 - LinkedIn: www.linkedin.com/in/juliananascimentosantos
 - Instagran: https://www.instagram.com/jujusantista/
-- Email: jujusantista23@gmail.com 
+- Email: jujusantista23@gmail.com
+
+---
+
+## ✨ Sobre mim
+
+Sou estudante de desenvolvimento e estou construindo meu portfólio com projetos práticos.  
+Busco minha primeira oportunidade na área de tecnologia 🚀
