@@ -24,7 +24,8 @@
 
 🔹 Sistema de cadastro de alunos em PHP  
 🔹 Exercícios com arrays  
-🔹 Modelagem de banco de dados  
+🔹 Modelagem de banco de dados
+🔹 CRUD (Create, Read, Update, Delete)
 🔹 Consultas SQL (INNER JOIN, etc)
 
 ---
