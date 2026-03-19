@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou a Juliana Santos
 
-🎯 Desenvolvedora em formação (Front-end & Back-end)
-💡 Focada em conquistar minha primeira oportunidade como desenvolvedora
+🎯 Desenvolvedora em formação (Front-end & Back-end) 
+💡 Focada em conquistar minha primeira oportunidade como desenvolvedora 
 💡 Apaixonada por tecnologia e aprendizado constante
 
 ---
