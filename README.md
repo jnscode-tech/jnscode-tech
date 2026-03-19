@@ -1,7 +1,9 @@
 # 👋 Olá, eu sou a Juliana Santos
 
 🎯 Desenvolvedora em formação (Front-end & Back-end) 
+
 💡 Focada em conquistar minha primeira oportunidade como desenvolvedora 
+
 💡 Apaixonada por tecnologia e aprendizado constante
 
 ---
@@ -39,7 +41,7 @@
 ## 🌐 Projetos publicados
 
 * 🔗 https://jnscode-estudos.github.io/html-projetonintendo/
-* * 🔗 https://jnscode-tech.github.io/html-cards-exercicio/
+* 🔗 https://jnscode-tech.github.io/html-cards-exercicio/
 
 ---
 
