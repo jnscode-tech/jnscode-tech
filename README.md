@@ -44,9 +44,13 @@
 - Instagran: https://www.instagram.com/jujusantista/
 - Email: jujusantista23@gmail.com
 
+
 ---
 
 ## ✨ Sobre mim
 
 Sou estudante de desenvolvimento e estou construindo meu portfólio com projetos práticos.  
 Busco minha primeira oportunidade na área de tecnologia 🚀
+
+📂 Mais projetos e estudos:
+👉 https://github.com/jnscode-estudos
