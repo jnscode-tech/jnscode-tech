@@ -1,63 +1,72 @@
 # 👋 Olá, eu sou a Juliana Santos
 
-🎓 Estudante de Desenvolvimento Front-end e Back-end  
-💡 Apaixonada por tecnologia e aprendizado constante  
+🎯 Desenvolvedora em formação (Front-end & Back-end)
+💡 Focada em conquistar minha primeira oportunidade como desenvolvedora
+💡 Apaixonada por tecnologia e aprendizado constante
 
 ---
 
 ## 🚀 Tecnologias
 
-💻 Front-end  
-- HTML  
-- CSS  
-- JavaScript  
-
-⚙️ Back-end  
-- PHP  
-
-🗄️ Banco de Dados  
-- MySQL  
+* 💻 Front-end: HTML, CSS, JavaScript
+* ⚙️ Back-end: PHP
+* 🗄️ Banco de Dados: MySQL
 
 ---
 
 ## 📂 Projetos em destaque
 
-🔹 Sistema de cadastro de alunos em PHP  
-🔹 Exercícios com arrays  
-🔹 Modelagem de banco de dados
-🔹 CRUD (Create, Read, Update, Delete)
-🔹 Consultas SQL (INNER JOIN, etc)
+### 🎓 Sistema de Cadastro de Alunos (PHP)
+
+* Cadastro, edição e exclusão de usuários (CRUD)
+* Integração com banco de dados
+* Aplicação prática de lógica de programação
+
+### 🧠 Exercícios com Arrays (PHP)
+
+* Manipulação de dados
+* Estruturas de repetição
+* Resolução de problemas
+
+### 🗄️ Modelagem e Consultas SQL
+
+* Criação de tabelas e relacionamentos
+* Consultas com INNER JOIN
+* Organização de dados
 
 ---
 
-## 📂 Projetos em html
+## 🌐 Projetos publicados
 
-🔹 https://jnscode-tech.github.io/html-cards-exercicio/
-🔹 https://jnscode-estudos.github.io/html-projetonintendo/
+* 🔗 https://jnscode-estudos.github.io/html-projetonintendo/
+* * 🔗 https://jnscode-tech.github.io/html-cards-exercicio/
 
 ---
 
 ## 🌱 Atualmente estudando
-- Lógica de programação  
-- Estruturas de dados  
-- Desenvolvimento web completo  
+
+* Estruturas de dados
+* Lógica de programação avançada
+* Desenvolvimento web completo
+* React
+  
+---
+
+## 🎯 Objetivo
+
+Busco minha primeira oportunidade como desenvolvedora júnior, onde eu possa aprender na prática, evoluir tecnicamente e contribuir com a equipe.
 
 ---
 
 ## 📫 Contato
 
-📍 Santos - SP  
-- LinkedIn: www.linkedin.com/in/juliananascimentosantos
-- Instagran: https://www.instagram.com/jujusantista/
-- Email: jujusantista23@gmail.com
+📍 Santos - SP
 
+* 💼 LinkedIn: https://www.linkedin.com/in/juliananascimentosantos
+* 📧 Email: [jujusantista23@gmail.com](mailto:jujusantista23@gmail.com)
 
 ---
 
-## ✨ Sobre mim
+## 📌 Mais projetos
 
-Sou estudante de desenvolvimento e estou construindo meu portfólio com projetos práticos.  
-Busco minha primeira oportunidade na área de tecnologia 🚀
-
-📂 Mais projetos e estudos:
 👉 https://github.com/jnscode-estudos
