@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 Tecnologias que estou aprendendo
+## 🚀 Tecnologias
 
 💻 Front-end  
 - HTML  
