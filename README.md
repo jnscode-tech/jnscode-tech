@@ -33,6 +33,7 @@
 ## 📂 Projetos em html
 
 🔹 https://jnscode-tech.github.io/html-cards-exercicio/
+🔹 https://jnscode-estudos.github.io/html-projetonintendo/
 
 ---
 
