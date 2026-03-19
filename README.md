@@ -30,6 +30,12 @@
 
 ---
 
+## 📂 Projetos em html
+
+🔹 https://jnscode-tech.github.io/html-cards-exercicio/
+
+---
+
 ## 🌱 Atualmente estudando
 - Lógica de programação  
 - Estruturas de dados  
