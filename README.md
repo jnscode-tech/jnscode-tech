@@ -41,6 +41,7 @@
 ## 🌐 Projetos publicados
 
 * 🔗 https://jnscode-estudos.github.io/html-projetonintendo/
+* 🔗 https://jnscode-tech.github.io/html-projetoanime/index.html
 * 🔗 https://jnscode-tech.github.io/html-cards-exercicio/
 * 🔗 https://github.com/jnscode-tech/projeto-react-aline-juliana.git
 
