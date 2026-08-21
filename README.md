@@ -44,6 +44,7 @@
 * 🔗 https://jnscode-tech.github.io/html-projetoanime/index.html
 * 🔗 https://jnscode-tech.github.io/html-cards-exercicio/
 * 🔗 https://github.com/jnscode-tech/projeto-react-aline-juliana.git
+* 🔗 https://ideal-solucoeseletricas.infinityfree.me/
 
 ---
 
